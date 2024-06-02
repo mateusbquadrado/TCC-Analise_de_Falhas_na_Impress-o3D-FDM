@@ -1,1 +1,0 @@
-# TCC-Analise_de_Falhas_na_Impress-o3D-FDM
